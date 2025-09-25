@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://mumbai.call-girls.co.in/$1",
+      "permanent": true
+    }
+  ]
+}
